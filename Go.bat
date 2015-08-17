@@ -1,0 +1,1 @@
+paexec.exe \\[YourComputerName]  -u [YourUserName] -p [YourPassword] -h -c -clist ".\FilesToCopy.txt" ShowStuff.bat
